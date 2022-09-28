@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    height: 100%;
+
+}
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+    background: var(--color-pass);
+}
+
+.jest-lite-report__errors {
+    display: none
+}
+
+.my_pic{
+    border-radius: 50%;
+    margin: 0px 10px 30px 80%;
+    filter: drop-shadow(5px 5px 5px);
+    
+}
+.one {
+    text-align: center;
+    color: #424242;
+    height: 50px;
+    width: 500px;
+    border: 5px #3498DB solid;
+    background-color: #AED6F1;
+    margin-left: 30%;
+    border-radius: 30px;
+}
+
+.two {
+    color: rgb(244, 250, 244);
+}
+
+.three {
+    color: rgb(232, 238, 232);
+}
+
+body {
+    background-image: url("https://i.pinimg.com/236x/da/84/10/da8410f4658e30ea2f7045533791f163.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.talk{
+    color: rgb(87, 154, 241);
+}
+
+.my-page{
+    color: rgb(87, 154, 241);
+}
+
+.four {
+    color: #5D6D7E;
+}
+
+.five {
+    color: #5D6D7E;
+}
+
+.six {
+    background-color: #D2B4DE;
+}
+
+.seven {
+    text-align: center;
+    padding: auto;
+    margin: auto;
+    color: #424242;
+    font-family: Gabriola;
+    font-size: 30px;
+    
+    border: 5px #3498DB ;
+    background-color: #AED6F1;
+    border-radius: 30px;
+}
+
+#textarea{
+    color: rgb(232, 238, 232);
+}
+
+.Towfiq{
+    color: rgb(232, 238, 232);
+}
